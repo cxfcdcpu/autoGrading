@@ -1,0 +1,7 @@
+Canvas course id can be found at the canvas url when the course is select.
+********************************************************
+write down your section(any name match what you want to type in the Mask.sh) and section ID one by one. section first:
+f
+27898
+g
+30354
